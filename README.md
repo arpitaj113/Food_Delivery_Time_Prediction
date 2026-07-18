@@ -140,23 +140,24 @@ model_comparison.csv
 
 ---
 
-## 📷 Screenshots
+## 📸 Application Preview
 
-Add screenshots here after uploading them to the `assets` folder.
+### 🏠 Home Page
 
-### Home Page
-
-```
-assets/homepage.png
-```
-
-### Prediction Result
-
-```
-assets/result.png
-```
+<p align="center">
+  <img src="assets/homepage.png" alt="Home Page" width="850">
+</p>
 
 ---
+
+### 📊 Prediction Result
+
+<p align="center">
+  <img src="assets/result.png" alt="Prediction Result" width="850">
+</p>
+
+---
+
 
 ## 🔮 Future Improvements
 
