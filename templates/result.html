@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Prediction Result</title>
+    <link rel="stylesheet"
+          href="{{ url_for('static',
+          filename='style.css') }}">
+</head>
+<body>
+
+<div class="card">
+
+```
+<h1>🎉 Prediction Result</h1>
+
+<h2>
+    Estimated Delivery Time:
+    {{ prediction }} minutes
+</h2>
+
+<br>
+
+<p>MAE : {{ mae }}</p>
+<p>RMSE : {{ rmse }}</p>
+<p>R² Score : {{ r2 }}</p>
+
+<br>
+
+<a href="/">
+    <button>Predict Again</button>
+</a>
+```
+
+</div>
+
+</body>
+</html>
