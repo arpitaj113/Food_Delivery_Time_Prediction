@@ -58,7 +58,7 @@ Food_Delivery_Time_Prediction/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Food_Delivery_Time_Prediction.git
+git clone https://github.com/arpitaj113/Food_Delivery_Time_Prediction.git
 ```
 
 ### Navigate to the project
